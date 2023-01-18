@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Rama Bitar
-- 👀 I’m interested in ..
-- 🌱 I’m currently learning web develop
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me rama.said.bittar@gmail.com  
+- 👀 I’m interested in creating cool font end webpages
+- 🌱 I’m currently learning jeve script and it's frameworks
+- 📫 How to reach me rama.said.bitar@gmail.com  
 
 <!---
 RammRomm/RammRomm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
